@@ -1,3 +1,6 @@
 rdkit
 py3Dmol
 numpy
+nglview
+pymol
+matplotlib
